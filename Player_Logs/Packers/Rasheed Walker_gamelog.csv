@@ -1,0 +1,46 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Num,Pct,Num,Pct,Num,Pct,Status
+1,2022,2022-09-11,1,1,,GNB,@,MIN,L 7-23,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+2,2022,2022-09-18,2,2,,GNB,,CHI,W 27-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+3,2022,2022-09-25,3,3,,GNB,@,TAM,W 14-12,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+4,2022,2022-10-02,4,4,,GNB,,NWE,W 27-24,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+5,2022,2022-10-09,5,5,,GNB,,NYG,L 22-27,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+6,2022,2022-10-16,6,6,,GNB,,NYJ,L 10-27,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,2022,2022-10-23,7,7,,GNB,@,WAS,L 21-23,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+8,2022,2022-10-30,8,8,,GNB,@,BUF,L 17-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+9,2022,2022-11-06,9,9,,GNB,@,DET,L 9-15,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+10,2022,2022-11-13,10,10,,GNB,,DAL,W 31-28,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+11,2022,2022-11-17,11,11,,GNB,,TEN,L 17-27,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+12,2022,2022-11-27,12,12,,GNB,@,PHI,L 33-40,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+13,2022,2022-12-04,13,13,,GNB,@,CHI,W 28-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,2022,2022-12-19,14,15,,GNB,,LAR,W 24-12,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,2022,2022-12-25,15,16,22.315,GNB,@,MIA,W 26-20,,0,0%,0,0%,4,15%,
+16,2022,2023-01-01,16,17,,GNB,,MIN,W 41-17,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+17,2022,2023-01-08,17,18,,GNB,,DET,L 16-20,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+18,2023,2023-09-10,1,1,23.209,GNB,@,CHI,W 38-20,,7,12%,0,0%,6,21%,
+19,2023,2023-09-17,2,2,23.216,GNB,@,ATL,L 24-25,*,45,90%,0,0%,4,15%,
+20,2023,2023-09-24,3,3,23.223,GNB,,NOR,W 18-17,*,79,100%,0,0%,2,8%,
+21,2023,2023-09-28,4,4,23.227,GNB,,DET,L 20-34,*,57,100%,0,0%,2,7%,
+22,2023,2023-10-09,5,5,23.238,GNB,@,LVR,L 13-17,*,58,100%,0,0%,3,13%,
+23,2023,2023-10-22,6,7,23.251,GNB,@,DEN,L 17-19,*,64,100%,0,0%,4,16%,
+24,2023,2023-10-29,7,8,23.258,GNB,,MIN,L 10-24,*,18,26%,0,0%,3,13%,
+25,2023,2023-11-05,8,9,23.265,GNB,,LAR,W 20-3,,37,51%,0,0%,5,22%,
+26,2023,2023-11-12,9,10,23.272,GNB,@,PIT,L 19-23,*,68,100%,0,0%,4,14%,
+27,2023,2023-11-19,10,11,23.279,GNB,,LAC,W 23-20,*,41,57%,0,0%,5,19%,
+28,2023,2023-11-23,11,12,23.283,GNB,@,DET,W 29-22,*,29,52%,0,0%,5,22%,
+29,2023,2023-12-03,12,13,23.293,GNB,,KAN,W 27-19,*,56,88%,0,0%,5,23%,
+30,2023,2023-12-11,13,14,23.301,GNB,@,NYG,L 22-24,*,51,75%,0,0%,5,19%,
+31,2023,2023-12-17,14,15,23.307,GNB,,TAM,L 20-34,*,41,68%,0,0%,4,16%,
+32,2023,2023-12-24,15,16,23.314,GNB,@,CAR,W 33-30,*,66,100%,0,0%,6,20%,
+33,2023,2023-12-31,16,17,23.321,GNB,@,MIN,W 33-10,*,74,100%,0,0%,6,25%,
+34,2023,2024-01-07,17,18,23.328,GNB,,CHI,W 17-9,*,60,100%,0,0%,4,22%,
+35,2024,2024-09-06,1,1,24.206,GNB,@,PHI,L 29-34,*,67,100%,0,0%,7,23%,
+36,2024,2024-09-15,2,2,24.215,GNB,,IND,W 16-10,*,70,100%,0,0%,5,23%,
+37,2024,2024-09-22,3,3,24.222,GNB,@,TEN,W 30-14,*,63,100%,0,0%,7,25%,
+38,2024,2024-09-29,4,4,24.229,GNB,,MIN,L 29-31,*,76,100%,0,0%,5,17%,
+39,2024,2024-10-06,5,5,24.236,GNB,@,LAR,W 24-19,*,59,100%,0,0%,4,18%,
+40,2024,2024-10-13,6,6,24.243,GNB,,ARI,W 34-13,*,73,100%,0,0%,7,26%,
+41,2024,2024-10-20,7,7,24.250,GNB,,HOU,W 24-22,*,58,100%,0,0%,4,14%,
+42,2024,2024-10-27,8,8,24.257,GNB,@,JAX,W 30-27,*,70,100%,0,0%,6,18%,
+43,2024,2024-11-03,9,9,24.264,GNB,,DET,L 14-24,*,65,100%,0,0%,3,14%,
+44,2024,2024-11-17,10,11,24.278,GNB,@,CHI,W 20-19,*,46,100%,0,0%,2,11%,
+45,2024,2024-11-24,11,12,24.285,GNB,,SFO,W 38-10,*,72,100%,0,0%,6,24%,

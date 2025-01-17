@@ -1,0 +1,45 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Num,Pct,Num,Pct,Num,Pct,Status
+1,2022,2022-09-11,1,1,,CAR,,CLE,L 24-26,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2,2022,2022-09-18,2,2,,CAR,@,NYG,L 16-19,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+3,2022,2022-09-25,3,3,,CAR,,NOR,W 22-14,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+4,2022,2022-10-02,4,4,,CAR,,ARI,L 16-26,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+5,2022,2022-10-09,5,5,,CAR,,SFO,L 15-37,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+6,2022,2022-10-16,6,6,,CAR,@,LAR,L 10-24,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,2022,2022-10-23,7,7,23.180,CAR,,TAM,W 21-3,,0,0%,0,0%,3,13%,
+8,2022,2022-10-30,8,8,23.187,CAR,@,ATL,L 34-37,,0,0%,0,0%,6,17%,
+9,2022,2022-11-06,9,9,23.194,CAR,@,CIN,L 21-42,,0,0%,0,0%,3,10%,
+10,2022,2022-11-10,10,10,23.198,CAR,,ATL,W 25-15,,0,0%,0,0%,6,21%,
+11,2022,2022-11-20,11,11,23.208,CAR,@,BAL,L 3-13,,1,2%,0,0%,1,4%,
+12,2022,2022-11-27,12,12,23.215,CAR,,DEN,W 23-10,*,6,9%,0,0%,5,17%,
+13,2022,2022-12-11,13,14,23.229,CAR,@,SEA,W 30-24,*,5,7%,0,0%,6,21%,
+14,2022,2022-12-18,14,15,23.236,CAR,,PIT,L 16-24,,2,4%,0,0%,4,16%,
+15,2022,2022-12-24,15,16,23.242,CAR,,DET,W 37-23,,2,3%,0,0%,7,24%,
+16,2022,2023-01-01,16,17,23.250,CAR,@,TAM,L 24-30,,1,2%,0,0%,4,13%,
+17,2022,2023-01-08,17,18,23.257,CAR,@,NOR,W 10-7,,34,58%,0,0%,2,10%,
+18,2023,2023-09-10,1,1,24.137,CAR,@,ATL,L 10-24,,0,0%,0,0%,2,8%,
+19,2023,2023-09-18,2,2,24.145,CAR,,NOR,L 17-20,*,34,57%,0,0%,3,11%,
+20,2023,2023-09-24,3,3,24.151,CAR,@,SEA,L 27-37,,0,0%,0,0%,6,17%,
+21,2023,2023-10-01,4,4,24.158,CAR,,MIN,L 13-21,,2,3%,0,0%,3,14%,
+22,2023,2023-10-08,5,5,24.165,CAR,@,DET,L 24-42,,57,80%,0,0%,4,15%,
+23,2023,2023-10-15,6,6,24.172,CAR,@,MIA,L 21-42,*,69,100%,0,0%,4,13%,
+24,2023,2023-10-29,7,8,24.186,CAR,,HOU,W 15-13,,0,0%,0,0%,6,25%,
+25,2023,2023-11-05,8,9,24.193,CAR,,IND,L 13-27,,0,0%,0,0%,3,11%,
+26,2023,2023-11-09,9,10,24.197,CAR,@,CHI,L 13-16,,0,0%,0,0%,4,14%,
+27,2023,2023-11-19,10,11,24.207,CAR,,DAL,L 10-33,,0,0%,0,0%,2,7%,
+28,2023,2023-11-26,11,12,24.214,CAR,@,TEN,L 10-17,,35,47%,0,0%,2,8%,
+29,2023,2023-12-03,12,13,24.221,CAR,@,TAM,L 18-21,,1,1%,0,0%,2,7%,
+30,2023,2023-12-10,13,14,24.228,CAR,@,NOR,L 6-28,,79,99%,0,0%,3,13%,
+31,2023,2023-12-17,14,15,24.235,CAR,,ATL,W 9-7,*,66,100%,0,0%,3,16%,
+32,2023,2023-12-24,15,16,24.242,CAR,,GNB,L 30-33,*,66,100%,0,0%,4,13%,
+33,2023,2023-12-31,16,17,24.249,CAR,@,JAX,L 0-26,*,26,48%,0,0%,0,0%,
+34,2023,2024-01-07,17,18,,CAR,,TAM,L 0-9,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,2024,2024-09-15,2,2,,NYG,@,WAS,L 18-21,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+36,2024,2024-09-22,3,3,,NYG,@,CLE,W 21-15,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+37,2024,2024-09-26,4,4,,NYG,,DAL,L 15-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+38,2024,2024-10-06,5,5,,NYG,@,SEA,W 29-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+39,2024,2024-10-13,6,6,25.170,CAR,,ATL,L 20-38,,0,0%,0,0%,4,15%,
+40,2024,2024-10-20,7,7,25.177,CAR,@,WAS,L 7-40,,0,0%,0,0%,1,4%,
+41,2024,2024-10-27,8,8,25.184,CAR,@,DEN,L 14-28,,10,16%,0,0%,2,8%,
+42,2024,2024-11-03,9,9,25.191,CAR,,NOR,W 23-22,*,53,100%,0,0%,0,0%,
+43,2024,2024-11-10,10,10,25.198,CAR,,NYG,W 20-17,*,60,100%,0,0%,0,0%,
+44,2024,2024-11-24,11,12,25.212,CAR,,KAN,L 27-30,*,62,100%,0,0%,0,0%,

@@ -1,0 +1,46 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Sk,Solo,Ast,Comb,TFL,QBHits,Int,Yds,TD,PD,Num,Pct,Num,Pct,Num,Pct,Status
+1,2022,2022-09-11,1,1,21.152,SFO,@,CHI,L 10-19,,0.0,1,1,2,0,0,0,0,0,0,0,0%,17,29%,0,0%,
+2,2022,2022-09-18,2,2,21.159,SFO,,SEA,W 27-7,,,,,,,,,,,,0,0%,14,29%,2,9%,
+3,2022,2022-09-25,3,3,21.166,SFO,@,DEN,L 10-11,,1.0,1,0,1,1,2,0,0,0,0,0,0%,22,30%,0,0%,
+4,2022,2022-10-03,4,4,21.174,SFO,,LAR,W 24-9,,0.0,0,1,1,0,0,0,0,0,1,0,0%,26,35%,0,0%,
+5,2022,2022-10-09,5,5,21.180,SFO,@,CAR,W 37-15,,1.0,1,0,1,1,1,0,0,0,0,0,0%,31,45%,0,0%,
+6,2022,2022-10-16,6,6,21.187,SFO,@,ATL,L 14-28,,1.0,3,0,3,0,1,0,0,0,0,0,0%,12,21%,0,0%,
+7,2022,2022-10-23,7,7,21.194,SFO,,KAN,L 23-44,,0.0,0,1,1,0,1,0,0,0,1,0,0%,32,50%,0,0%,
+8,2022,2022-10-30,8,8,21.201,SFO,@,LAR,W 31-14,,0.0,1,0,1,0,0,0,0,0,0,0,0%,21,36%,1,4%,
+9,2022,2022-11-13,9,10,21.215,SFO,,LAC,W 22-16,,0.0,0,1,1,0,0,0,0,0,1,0,0%,19,33%,0,0%,
+10,2022,2022-11-21,10,11,21.223,SFO,@,ARI,W 38-10,,0.0,0,0,0,0,0,0,0,0,1,0,0%,41,58%,1,4%,
+11,2022,2022-11-27,11,12,21.229,SFO,,NOR,W 13-0,,0.0,1,0,1,1,0,0,0,0,0,0,0%,15,26%,1,6%,
+12,2022,2022-12-04,12,13,21.236,SFO,,MIA,W 33-17,,0.0,0,0,0,0,0,0,0,0,1,0,0%,9,20%,0,0%,
+13,2022,2022-12-11,13,14,21.243,SFO,,TAM,W 35-7,,0.0,0,1,1,0,0,0,0,0,2,0,0%,25,33%,2,10%,
+14,2022,2022-12-15,14,15,21.247,SFO,@,SEA,W 21-13,,0.0,0,1,1,0,1,0,0,0,0,0,0%,15,23%,3,11%,
+15,2022,2022-12-24,15,16,,SFO,,WAS,W 37-20,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+16,2022,2023-01-01,16,17,21.264,SFO,@,LVR,W 37-34,,0.0,0,0,0,0,0,1,0,0,1,0,0%,16,23%,2,6%,
+17,2022,2023-01-08,17,18,,SFO,,ARI,W 38-13,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+18,2023,2023-09-10,1,1,22.151,SFO,@,PIT,W 30-7,,3.0,3,0,3,2,3,0,0,0,0,0,0%,28,44%,2,8%,
+19,2023,2023-09-17,2,2,22.158,SFO,@,LAR,W 30-23,,0.0,1,1,2,0,0,0,0,0,1,0,0%,40,50%,5,18%,
+20,2023,2023-09-21,3,3,22.162,SFO,,NYG,W 30-12,,0.0,0,0,0,0,0,0,0,0,0,0,0%,30,60%,2,7%,
+21,2023,2023-10-01,4,4,22.172,SFO,,ARI,W 35-16,,0.0,0,1,1,0,0,0,0,0,0,0,0%,41,58%,3,14%,
+22,2023,2023-10-08,5,5,22.179,SFO,,DAL,W 42-10,,,,,,,,,,,,0,0%,13,27%,2,7%,
+23,2023,2023-10-15,6,6,22.186,SFO,@,CLE,L 17-19,,0.0,0,1,1,0,0,0,0,0,0,0,0%,22,29%,6,19%,
+24,2023,2023-10-23,7,7,22.194,SFO,@,MIN,L 17-22,,,,,,,,,,,,0,0%,15,21%,7,32%,
+25,2023,2023-10-29,8,8,22.200,SFO,,CIN,L 17-31,,,,,,,,,,,,0,0%,10,16%,6,24%,
+26,2023,2023-11-12,9,10,,SFO,@,JAX,W 34-3,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+27,2023,2023-11-19,10,11,,SFO,,TAM,W 27-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+28,2023,2023-11-23,11,12,,SFO,@,SEA,W 31-13,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+29,2023,2023-12-03,12,13,,SFO,@,PHI,W 42-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+30,2023,2023-12-10,13,14,,SFO,,SEA,W 28-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+31,2023,2023-12-17,14,15,,SFO,@,ARI,W 45-29,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+32,2023,2023-12-25,15,16,,SFO,,BAL,L 19-33,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+33,2023,2023-12-31,16,17,,SFO,@,WAS,W 27-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+34,2023,2024-01-07,17,18,,SFO,,LAR,L 20-21,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+35,2024,2024-09-09,1,1,,SFO,,NYJ,W 32-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+36,2024,2024-09-15,2,2,,SFO,@,MIN,L 17-23,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+37,2024,2024-09-22,3,3,,SFO,@,LAR,L 24-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+38,2024,2024-09-29,4,4,,SFO,,NWE,W 30-13,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+39,2024,2024-10-06,5,5,,SFO,,ARI,L 23-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+40,2024,2024-10-10,6,6,,SFO,@,SEA,W 36-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+41,2024,2024-10-20,7,7,,SFO,,KAN,L 18-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+42,2024,2024-10-27,8,8,,SFO,,DAL,W 30-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+43,2024,2024-11-10,9,10,,SFO,@,TAM,W 23-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+44,2024,2024-11-17,10,11,,SFO,,SEA,L 17-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+45,2024,2024-11-24,11,12,,SFO,@,GNB,L 10-38,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play

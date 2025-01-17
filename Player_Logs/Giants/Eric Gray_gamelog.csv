@@ -1,0 +1,29 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,Rt,Yds,Y/Rt,TD,Ret,Yds,Y/R,TD,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status
+1,2023,2023-09-10,1,1,23.310,NYG,,DAL,L 0-40,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,1,7,7.00,0,0,0,0,0,0,0,0,0%,0,0%,11,46%,
+2,2023,2023-09-17,2,2,23.317,NYG,@,ARI,W 31-28,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,1,14,14.00,0,0,0,0,0,0,0,0,0%,0,0%,9,32%,
+3,2023,2023-09-21,3,3,23.321,NYG,@,SFO,L 12-30,,0,0,,0,0,0,0,,0,0.0%,,1,16,16.00,0,1,3,3.00,0,0,0,0,0,0,0,0,0%,0,0%,10,36%,
+4,2023,2023-10-02,4,4,23.332,NYG,,SEA,L 3-24,,0,0,,0,0,0,0,,0,0.0%,,1,19,19.00,0,1,0,0.00,0,1,0,0,0,0,0,0,0%,0,0%,8,35%,
+5,2023,2023-10-08,5,5,23.338,NYG,@,MIA,L 16-31,,12,25,2.08,0,1,1,1,1.00,0,100.0%,1.00,1,20,20.00,0,0,0,,0,1,0,0,0,0,0,30,42%,0,0%,12,46%,
+6,2023,2023-10-15,6,6,23.345,NYG,@,BUF,L 9-14,,1,2,2.00,0,0,0,0,,0,0.0%,,1,3,3.00,0,2,4,2.00,0,0,0,0,0,0,0,1,1%,0,0%,6,29%,
+7,2023,2023-10-22,7,7,23.352,NYG,,WAS,W 14-7,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,1,0,0.00,0,1,0,0,0,0,0,0,0%,0,0%,3,10%,
+8,2023,2023-10-29,8,8,,NYG,,NYJ,L 10-13,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+9,2023,2023-11-05,9,9,,NYG,@,LVR,L 6-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+10,2023,2023-11-12,10,10,,NYG,@,DAL,L 17-49,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,2023,2023-11-19,11,11,,NYG,@,WAS,W 31-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,2023,2023-11-26,12,12,24.022,NYG,,NWE,W 10-7,,,,,,,,,,,0.0%,,,,,,,,,,,,,,,,2,4%,0,0%,2,9%,
+13,2023,2023-12-11,13,14,24.037,NYG,,GNB,W 24-22,,,,,,,,,,,0.0%,,,,,,,,,,,,,,,,1,2%,0,0%,6,22%,
+14,2023,2023-12-17,14,15,24.043,NYG,@,NOR,L 6-24,,0,0,,0,4,3,6,2.00,0,75.0%,1.50,0,0,,0,0,0,,0,0,0,0,0,0,0,11,18%,0,0%,5,22%,
+15,2023,2023-12-25,15,16,24.051,NYG,@,PHI,L 25-33,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0%,0,0%,8,28%,
+16,2023,2023-12-31,16,17,24.057,NYG,,LAR,L 25-26,,1,2,2.00,0,1,1,6,6.00,0,100.0%,6.00,0,0,,0,0,0,,0,0,0,0,0,0,0,6,8%,0,0%,5,17%,
+17,2023,2024-01-07,17,18,24.064,NYG,,PHI,W 27-10,,3,19,6.33,0,1,1,9,9.00,0,100.0%,9.00,0,0,,0,0,0,,0,0,0,0,0,0,0,14,21%,0,0%,3,12%,
+18,2024,2024-09-08,1,1,24.309,NYG,,MIN,L 6-28,,2,6,3.00,0,1,1,9,9.00,0,100.0%,9.00,1,22,22.00,0,0,0,,0,0,0,0,0,0,0,7,10%,0,0%,8,33%,
+19,2024,2024-09-15,2,2,24.316,NYG,@,WAS,L 18-21,,0,0,,0,0,0,0,,0,0.0%,,5,128,25.60,0,0,0,,0,0,0,0,0,0,0,0,0%,0,0%,8,38%,
+20,2024,2024-09-22,3,3,24.323,NYG,@,CLE,W 21-15,,1,0,0.00,0,0,0,0,,0,0.0%,,2,52,26.00,0,0,0,,0,1,1,0,0,0,0,3,4%,0,0%,8,31%,
+21,2024,2024-09-26,4,4,24.327,NYG,,DAL,L 15-20,,1,1,1.00,0,0,0,0,,0,0.0%,,2,54,27.00,0,0,0,,0,0,0,0,0,0,0,5,7%,0,0%,5,20%,
+22,2024,2024-10-06,5,5,24.337,NYG,@,SEA,W 29-20,,4,4,1.00,0,4,3,50,16.67,0,75.0%,12.50,2,44,22.00,0,0,0,,0,1,1,0,0,0,0,26,36%,0,0%,5,17%,
+23,2024,2024-10-13,6,6,24.344,NYG,,CIN,L 7-17,,3,13,4.33,0,0,0,0,,0,0.0%,,0,0,,0,0,0,,0,0,0,0,0,0,0,14,18%,0,0%,4,18%,
+24,2024,2024-10-20,7,7,24.351,NYG,,PHI,L 3-28,,1,2,2.00,0,1,1,7,7.00,0,100.0%,7.00,0,0,,0,0,0,,0,0,0,0,0,0,0,6,10%,0,0%,5,16%,
+25,2024,2024-10-28,8,8,24.359,NYG,@,PIT,L 18-26,,0,0,,0,1,1,3,3.00,0,100.0%,3.00,0,0,,0,0,0,,0,0,0,0,0,0,0,3,4%,0,0%,7,23%,
+26,2024,2024-11-03,9,9,24.365,NYG,,WAS,L 22-27,,0,0,,0,0,0,0,,0,0.0%,,4,104,26.00,0,0,0,,0,0,0,0,0,0,0,0,0%,0,0%,6,27%,
+27,2024,2024-11-10,10,10,25.006,NYG,@,CAR,L 17-20,,0,0,,0,0,0,0,,0,0.0%,,3,77,25.67,0,0,0,,0,0,0,0,0,0,0,2,3%,0,0%,6,20%,
+28,2024,2024-11-24,11,12,25.020,NYG,,TAM,L 7-30,,1,-1,-1.00,0,2,2,7,3.50,0,100.0%,3.50,0,0,,0,0,0,,0,0,0,0,0,0,0,15,25%,0,0%,10,50%,

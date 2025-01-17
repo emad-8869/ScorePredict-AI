@@ -1,0 +1,79 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Num,Pct,Num,Pct,Num,Pct,Status
+1,2020,2020-09-13,1,1,,SFO,,ARI,L 20-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+2,2020,2020-09-20,2,2,24.042,SFO,@,NYJ,W 31-13,,8,13%,0,0%,5,19%,
+3,2020,2020-09-27,3,3,24.049,SFO,@,NYG,W 36-9,,6,8%,0,0%,7,30%,
+4,2020,2020-10-04,4,4,24.056,SFO,,PHI,L 20-25,,0,0%,0,0%,2,8%,
+5,2020,2020-10-11,5,5,24.063,SFO,,MIA,L 17-43,,0,0%,0,0%,3,9%,
+6,2020,2020-10-18,6,6,24.070,SFO,,LAR,W 24-16,,0,0%,0,0%,4,15%,
+7,2020,2020-10-25,7,7,24.077,SFO,@,NWE,W 33-6,,0,0%,0,0%,6,29%,
+8,2020,2020-11-01,8,8,24.084,SFO,@,SEA,L 27-37,,0,0%,0,0%,3,10%,
+9,2020,2020-11-05,9,9,24.088,SFO,,GNB,L 17-34,,21,37%,0,0%,3,11%,
+10,2020,2020-11-15,10,10,24.098,SFO,@,NOR,L 13-27,,23,32%,0,0%,3,11%,
+11,2020,2020-11-29,11,12,24.112,SFO,@,LAR,W 23-20,*,72,100%,0,0%,7,20%,
+12,2020,2020-12-07,12,13,24.120,SFO,,BUF,L 24-34,,27,44%,0,0%,4,17%,
+13,2020,2020-12-13,13,14,24.126,SFO,,WAS,L 15-23,*,81,100%,0,0%,1,3%,
+14,2020,2020-12-20,14,15,,SFO,@,DAL,L 33-41,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List
+15,2020,2020-12-26,15,16,24.139,SFO,@,ARI,W 20-12,,27,48%,0,0%,5,21%,
+16,2020,2021-01-03,16,17,24.147,SFO,,SEA,L 23-26,*,36,55%,0,0%,5,16%,
+17,2021,2021-09-12,1,1,,SFO,@,DET,W 41-33,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+18,2021,2021-09-19,2,2,,SFO,@,PHI,W 17-11,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+19,2021,2021-09-26,3,3,,SFO,,GNB,L 28-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+20,2021,2021-10-03,4,4,,SFO,,SEA,L 21-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+21,2021,2021-10-10,5,5,,SFO,@,ARI,L 10-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+22,2021,2021-10-24,6,7,,SFO,,IND,L 18-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+23,2021,2021-10-31,7,8,,SFO,@,CHI,W 33-22,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+24,2021,2021-11-07,8,9,,SFO,,ARI,L 17-31,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+25,2021,2021-11-15,9,10,,SFO,,LAR,W 31-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+26,2021,2021-11-21,10,11,,SFO,@,JAX,W 30-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+27,2021,2021-11-28,11,12,,SFO,,MIN,W 34-26,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+28,2021,2021-12-05,12,13,,SFO,@,SEA,L 23-30,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+29,2021,2021-12-12,13,14,,SFO,@,CIN,W 26-23,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+30,2021,2021-12-19,14,15,,SFO,,ATL,W 31-13,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+31,2021,2021-12-23,15,16,,SFO,@,TEN,L 17-20,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+32,2021,2022-01-02,16,17,,SFO,,HOU,W 23-7,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+33,2021,2022-01-09,17,18,25.153,SFO,@,LAR,W 27-24,*,70,100%,0,0%,0,0%,
+34,2022,2022-09-11,1,1,26.033,SFO,@,CHI,L 10-19,,0,0%,0,0%,2,8%,
+35,2022,2022-09-18,2,2,26.040,SFO,,SEA,W 27-7,,2,3%,0,0%,6,26%,
+36,2022,2022-09-25,3,3,26.047,SFO,@,DEN,L 10-11,,11,20%,0,0%,2,7%,
+37,2022,2022-10-03,4,4,26.055,SFO,,LAR,W 24-9,*,32,64%,0,0%,2,8%,
+38,2022,2022-10-09,5,5,,SFO,@,CAR,W 37-15,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+39,2022,2022-10-16,6,6,,SFO,@,ATL,L 14-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+40,2022,2022-10-23,7,7,,SFO,,KAN,L 23-44,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+41,2022,2022-10-30,8,8,,SFO,@,LAR,W 31-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+42,2022,2022-11-13,9,10,26.096,SFO,,LAC,W 22-16,,0,0%,0,0%,5,18%,
+43,2022,2022-11-21,10,11,26.104,SFO,@,ARI,W 38-10,,7,12%,0,0%,6,23%,
+44,2022,2022-11-27,11,12,26.110,SFO,,NOR,W 13-0,,0,0%,0,0%,3,18%,
+45,2022,2022-12-04,12,13,26.117,SFO,,MIA,W 33-17,,0,0%,0,0%,7,23%,
+46,2022,2022-12-11,13,14,26.124,SFO,,TAM,W 35-7,,5,8%,0,0%,5,24%,
+47,2022,2022-12-15,14,15,26.128,SFO,@,SEA,W 21-13,,0,0%,0,0%,4,14%,
+48,2022,2022-12-24,15,16,26.137,SFO,,WAS,W 37-20,,0,0%,0,0%,7,26%,
+49,2022,2023-01-01,16,17,26.145,SFO,@,LVR,W 37-34,,0,0%,0,0%,8,24%,
+50,2022,2023-01-08,17,18,26.152,SFO,,ARI,W 38-13,,11,18%,0,0%,6,23%,
+51,2023,2023-09-10,1,1,27.032,SFO,@,PIT,W 30-7,*,68,100%,0,0%,7,27%,
+52,2023,2023-09-17,2,2,27.039,SFO,@,LAR,W 30-23,*,57,100%,0,0%,6,21%,
+53,2023,2023-09-21,3,3,27.043,SFO,,NYG,W 30-12,*,79,95%,0,0%,6,21%,
+54,2023,2023-10-01,4,4,27.053,SFO,,ARI,W 35-16,*,55,100%,0,0%,5,23%,
+55,2023,2023-10-08,5,5,27.060,SFO,,DAL,W 42-10,*,71,100%,0,0%,6,22%,
+56,2023,2023-10-15,6,6,27.067,SFO,@,CLE,L 17-19,*,62,100%,0,0%,5,16%,
+57,2023,2023-10-23,7,7,27.075,SFO,@,MIN,L 17-22,*,53,100%,0,0%,4,18%,
+58,2023,2023-10-29,8,8,27.081,SFO,,CIN,L 17-31,*,59,100%,0,0%,3,12%,
+59,2023,2023-11-12,9,10,27.095,SFO,@,JAX,W 34-3,*,62,100%,0,0%,6,26%,
+60,2023,2023-11-19,10,11,27.102,SFO,,TAM,W 27-14,*,60,100%,0,0%,5,23%,
+61,2023,2023-11-23,11,12,27.106,SFO,@,SEA,W 31-13,*,66,100%,0,0%,5,17%,
+62,2023,2023-12-03,12,13,27.116,SFO,@,PHI,W 42-19,*,55,93%,0,0%,6,23%,
+63,2023,2023-12-10,13,14,27.123,SFO,,SEA,W 28-16,*,54,100%,0,0%,4,15%,
+64,2023,2023-12-17,14,15,27.130,SFO,@,ARI,W 45-29,*,54,96%,0,0%,7,23%,
+65,2023,2023-12-25,15,16,27.138,SFO,,BAL,L 19-33,*,70,100%,0,0%,3,11%,
+66,2023,2023-12-31,16,17,27.144,SFO,@,WAS,W 27-10,*,70,100%,0,0%,5,24%,
+67,2023,2024-01-07,17,18,27.151,SFO,,LAR,L 20-21,*,45,74%,0,0%,4,21%,
+68,2024,2024-09-09,1,1,28.031,SFO,,NYJ,W 32-19,*,72,100%,0,0%,8,31%,
+69,2024,2024-09-15,2,2,28.037,SFO,@,MIN,L 17-23,*,70,100%,0,0%,3,13%,
+70,2024,2024-09-22,3,3,28.044,SFO,@,LAR,L 24-27,*,71,100%,0,0%,5,19%,
+71,2024,2024-09-29,4,4,28.051,SFO,,NWE,W 30-13,*,63,100%,0,0%,6,23%,
+72,2024,2024-10-06,5,5,28.058,SFO,,ARI,L 23-24,*,64,100%,0,0%,5,21%,
+73,2024,2024-10-10,6,6,28.062,SFO,@,SEA,W 36-24,*,65,100%,0,0%,6,20%,
+74,2024,2024-10-20,7,7,28.072,SFO,,KAN,L 18-28,*,63,100%,0,0%,3,13%,
+75,2024,2024-10-27,8,8,28.079,SFO,,DAL,W 30-24,*,68,100%,0,0%,6,20%,
+76,2024,2024-11-10,9,10,28.093,SFO,@,TAM,W 23-20,*,64,100%,0,0%,8,28%,
+77,2024,2024-11-17,10,11,28.100,SFO,,SEA,L 17-20,*,63,100%,0,0%,3,14%,
+78,2024,2024-11-24,11,12,28.107,SFO,@,GNB,L 10-38,*,49,100%,0,0%,2,8%,

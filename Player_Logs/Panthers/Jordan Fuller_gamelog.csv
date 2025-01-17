@@ -1,0 +1,79 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Sk,Solo,Ast,Comb,TFL,QBHits,Int,Yds,TD,PD,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status
+1,2020,2020-09-13,1,1,22.193,LAR,,DAL,W 20-17,*,0.0,5,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,71,99%,1,4%,
+2,2020,2020-09-20,2,2,22.200,LAR,@,PHI,W 37-19,*,0.0,5,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,71,100%,3,12%,
+3,2020,2020-09-27,3,3,22.207,LAR,@,BUF,L 32-35,*,,,,,,,,,,,0,,,0,0,0,0,0%,8,13%,0,0%,
+4,2020,2020-10-04,4,4,,LAR,,NYG,W 17-9,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+5,2020,2020-10-11,5,5,22.221,LAR,@,WAS,W 30-10,*,0.0,3,1,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0%,54,100%,9,29%,
+6,2020,2020-10-18,6,6,,LAR,@,SFO,L 16-24,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+7,2020,2020-10-26,7,7,,LAR,,CHI,W 24-10,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+8,2020,2020-11-01,8,8,,LAR,@,MIA,L 17-28,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+9,2020,2020-11-15,9,10,22.256,LAR,,SEA,W 23-16,*,0.0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,58,87%,3,13%,
+10,2020,2020-11-23,10,11,22.264,LAR,@,TAM,W 27-24,*,0.0,4,0,4,0,0,2,43,0,2,0,0,0,0,0,0,0,0%,69,100%,0,0%,
+11,2020,2020-11-29,11,12,22.270,LAR,,SFO,L 20-23,*,0.0,1,3,4,0,0,1,2,0,1,0,0,0,0,0,0,0,0%,72,100%,0,0%,
+12,2020,2020-12-06,12,13,22.277,LAR,@,ARI,W 38-28,*,0.0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,64,100%,0,0%,
+13,2020,2020-12-10,13,14,22.281,LAR,,NWE,W 24-3,*,0.0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,59,100%,0,0%,
+14,2020,2020-12-20,14,15,22.291,LAR,,NYJ,L 20-23,*,0.0,6,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,65,100%,0,0%,
+15,2020,2020-12-27,15,16,22.298,LAR,@,SEA,L 9-20,*,0.0,5,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,63,100%,0,0%,
+16,2020,2021-01-03,16,17,22.305,LAR,,ARI,W 18-7,*,0.0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,53,100%,0,0%,
+17,2021,2021-09-12,1,1,23.192,LAR,,CHI,W 34-14,*,0.0,6,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,69,100%,0,0%,
+18,2021,2021-09-19,2,2,23.199,LAR,@,IND,W 27-24,*,0.0,6,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,66,99%,0,0%,
+19,2021,2021-09-26,3,3,23.206,LAR,,TAM,W 34-24,*,0.0,3,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,73,100%,0,0%,
+20,2021,2021-10-03,4,4,23.213,LAR,,ARI,L 20-37,*,0.0,5,2,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0%,78,100%,0,0%,
+21,2021,2021-10-07,5,5,23.217,LAR,@,SEA,W 26-17,*,0.0,3,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,65,100%,0,0%,
+22,2021,2021-10-17,6,6,23.227,LAR,@,NYG,W 38-11,*,0.0,8,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,65,87%,0,0%,
+23,2021,2021-10-24,7,7,23.234,LAR,,DET,W 28-19,*,0.0,3,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,69,100%,0,0%,
+24,2021,2021-10-31,8,8,23.241,LAR,@,HOU,W 38-22,*,0.0,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,30,49%,0,0%,
+25,2021,2021-11-07,9,9,23.248,LAR,,TEN,L 16-28,*,0.0,3,4,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0%,56,97%,0,0%,
+26,2021,2021-11-15,10,10,23.256,LAR,@,SFO,L 10-31,*,0.0,4,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,68,100%,0,0%,
+27,2021,2021-11-28,11,12,23.269,LAR,@,GNB,L 28-36,*,0.0,3,4,7,0,0,0,0,0,2,0,0,0,0,0,0,0,0%,82,100%,0,0%,
+28,2021,2021-12-05,12,13,23.276,LAR,,JAX,W 37-7,*,0.0,5,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,54,92%,0,0%,
+29,2021,2021-12-13,13,14,23.284,LAR,@,ARI,W 30-23,*,0.0,5,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,78,100%,0,0%,
+30,2021,2021-12-21,14,15,,LAR,,SEA,W 20-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+31,2021,2021-12-26,15,16,23.297,LAR,@,MIN,W 30-23,*,0.0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,63,100%,0,0%,
+32,2021,2022-01-02,16,17,23.304,LAR,@,BAL,W 20-19,*,0.0,3,3,6,0,0,1,34,0,1,0,0,0,0,0,0,0,0%,71,100%,0,0%,
+33,2021,2022-01-09,17,18,23.311,LAR,,SFO,L 24-27,*,0.0,3,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,42,60%,0,0%,
+34,2022,2022-09-08,1,1,24.188,LAR,,BUF,L 10-31,*,0.0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,18,31%,2,11%,
+35,2022,2022-09-18,2,2,24.198,LAR,,ATL,W 31-27,,0.0,6,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,36,59%,11,48%,
+36,2022,2022-09-25,3,3,,LAR,@,ARI,W 20-12,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+37,2022,2022-10-03,4,4,24.213,LAR,@,SFO,L 9-24,,0.0,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0%,37,74%,4,16%,
+38,2022,2022-10-09,5,5,,LAR,,DAL,L 10-22,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+39,2022,2022-10-16,6,6,,LAR,,CAR,W 24-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+40,2022,2022-10-30,7,8,,LAR,,SFO,L 14-31,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+41,2022,2022-11-06,8,9,,LAR,@,TAM,L 13-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+42,2022,2022-11-13,9,10,,LAR,,ARI,L 17-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+43,2022,2022-11-20,10,11,,LAR,@,NOR,L 20-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+44,2022,2022-11-27,11,12,,LAR,@,KAN,L 10-26,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+45,2022,2022-12-04,12,13,,LAR,,SEA,L 23-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+46,2022,2022-12-08,13,14,,LAR,,LVR,W 17-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+47,2022,2022-12-19,14,15,,LAR,@,GNB,L 12-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+48,2022,2022-12-25,15,16,,LAR,,DEN,W 51-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+49,2022,2023-01-01,16,17,,LAR,@,LAC,L 10-31,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+50,2022,2023-01-08,17,18,,LAR,@,SEA,L 16-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+51,2023,2023-09-10,1,1,25.190,LAR,@,SEA,W 30-13,*,0.0,3,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,51,100%,5,18%,
+52,2023,2023-09-17,2,2,25.197,LAR,,SFO,L 23-30,*,0.0,3,4,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0%,57,100%,12,43%,
+53,2023,2023-09-25,3,3,25.205,LAR,@,CIN,L 16-19,*,0.0,3,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,77,100%,11,35%,
+54,2023,2023-10-01,4,4,25.211,LAR,@,IND,W 29-23,*,0.0,1,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0%,64,100%,3,11%,
+55,2023,2023-10-08,5,5,25.218,LAR,,PHI,L 14-23,*,0.0,7,5,12,0,0,0,0,0,1,0,0,0,0,0,0,0,0%,79,100%,9,45%,
+56,2023,2023-10-15,6,6,25.225,LAR,,ARI,W 26-9,*,0.0,4,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,76,100%,4,15%,
+57,2023,2023-10-22,7,7,25.232,LAR,,PIT,L 17-24,*,0.0,3,2,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0%,59,100%,5,19%,
+58,2023,2023-10-29,8,8,25.239,LAR,@,DAL,L 20-43,*,0.0,5,1,6,0,0,1,18,0,1,0,0,0,0,0,0,0,0%,65,100%,7,23%,
+59,2023,2023-11-05,9,9,25.246,LAR,@,GNB,L 3-20,*,0.0,3,5,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0%,72,100%,7,30%,
+60,2023,2023-11-19,10,11,25.260,LAR,,SEA,W 17-16,*,0.0,5,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,65,100%,9,35%,
+61,2023,2023-11-26,11,12,25.267,LAR,@,ARI,W 37-14,*,0.0,2,1,3,0,0,0,0,0,4,0,0,0,0,0,0,0,0%,46,65%,4,14%,
+62,2023,2023-12-03,12,13,25.274,LAR,,CLE,W 36-19,*,0.0,5,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,71,100%,7,21%,
+63,2023,2023-12-10,13,14,25.281,LAR,@,BAL,L 31-37,*,0.0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,72,100%,11,30%,
+64,2023,2023-12-17,14,15,25.288,LAR,,WAS,W 28-20,*,0.0,2,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,59,98%,6,22%,
+65,2023,2023-12-21,15,16,25.292,LAR,,NOR,W 30-22,*,0.0,2,0,2,0,0,1,21,0,1,0,0,0,0,0,0,0,0%,60,100%,9,38%,
+66,2023,2023-12-31,16,17,25.302,LAR,@,NYG,W 26-25,*,0.0,7,1,8,0,0,1,0,0,1,0,0,0,0,0,0,0,0%,74,100%,8,27%,
+67,2023,2024-01-07,17,18,25.309,LAR,@,SFO,W 21-20,*,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,12,20%,1,5%,
+68,2024,2024-09-08,1,1,26.188,CAR,@,NOR,L 10-47,*,0.0,4,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,60,91%,0,0%,
+69,2024,2024-09-15,2,2,26.195,CAR,,LAC,L 3-26,*,0.0,4,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,69,100%,0,0%,
+70,2024,2024-09-22,3,3,26.202,CAR,@,LVR,W 36-22,*,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,34,53%,0,0%,
+71,2024,2024-09-29,4,4,,CAR,,CIN,L 24-34,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+72,2024,2024-10-06,5,5,,CAR,@,CHI,L 10-36,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+73,2024,2024-10-13,6,6,,CAR,,ATL,L 20-38,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+74,2024,2024-10-20,7,7,,CAR,@,WAS,L 7-40,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+75,2024,2024-10-27,8,8,,CAR,@,DEN,L 14-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+76,2024,2024-11-03,9,9,,CAR,,NOR,W 23-22,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+77,2024,2024-11-10,10,10,26.251,CAR,,NYG,W 20-17,*,0.0,2,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0%,75,100%,0,0%,
+78,2024,2024-11-24,11,12,26.265,CAR,,KAN,L 27-30,*,0.0,5,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0%,74,100%,0,0%,

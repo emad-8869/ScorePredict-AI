@@ -1,0 +1,28 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Sk,Solo,Ast,Comb,TFL,QBHits,Int,Yds,TD,PD,Num,Pct,Num,Pct,Num,Pct,Status
+1,2023,2023-09-10,1,1,24.226,WAS,,ARI,W 20-16,,,,,,,,,,,,0,0%,0,0%,13,46%,
+2,2023,2023-09-17,2,2,,WAS,@,DEN,W 35-33,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+3,2023,2023-09-24,3,3,,WAS,,BUF,L 3-37,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+4,2023,2023-10-01,4,4,,WAS,@,PHI,L 31-34,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+5,2023,2023-10-05,5,5,,WAS,,CHI,L 20-40,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+6,2023,2023-10-15,6,6,,WAS,@,ATL,W 24-16,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,2023,2023-10-22,7,7,,WAS,@,NYG,L 7-14,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+8,2023,2023-10-29,8,8,,WAS,,PHI,L 31-38,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,2023,2023-11-05,9,9,24.282,WAS,@,NWE,W 20-17,,0.0,0,0,0,0,0,0,0,0,0,0,0%,9,14%,3,11%,
+10,2023,2023-11-12,10,10,24.289,WAS,@,SEA,L 26-29,,0.0,0,0,0,0,0,0,0,0,0,0,0%,12,15%,13,37%,
+11,2023,2023-11-19,11,11,24.296,WAS,,NYG,L 19-31,,1.5,2,2,4,1,2,0,0,0,2,0,0%,37,67%,5,17%,
+12,2023,2023-11-23,12,12,24.300,WAS,@,DAL,L 10-45,,0.0,1,0,1,0,0,0,0,0,0,0,0%,31,57%,6,24%,
+13,2023,2023-12-03,13,13,24.310,WAS,,MIA,L 15-45,*,0.0,2,0,2,1,0,0,0,0,0,0,0%,30,49%,7,25%,
+14,2023,2023-12-17,14,15,24.324,WAS,@,LAR,L 20-28,*,0.0,4,1,5,1,0,0,0,0,0,0,0%,42,56%,5,19%,
+15,2023,2023-12-24,15,16,24.331,WAS,@,NYJ,L 28-30,,0.0,1,2,3,0,0,0,0,0,0,0,0%,39,43%,6,17%,
+16,2023,2023-12-31,16,17,24.338,WAS,,SFO,L 10-27,,0.0,3,0,3,1,0,0,0,0,0,0,0%,34,49%,5,24%,
+17,2023,2024-01-07,17,18,24.345,WAS,,DAL,L 10-38,*,0.0,1,0,1,0,0,0,0,0,0,0,0%,48,67%,15,68%,
+18,2024,2024-09-08,1,1,25.225,CIN,,NWE,L 10-16,,,,,,,,,,,,0,0%,2,3%,0,0%,
+19,2024,2024-09-15,2,2,25.232,CIN,@,KAN,L 25-26,,,,,,,,,,,,0,0%,9,14%,7,27%,
+20,2024,2024-09-23,3,3,,CIN,,WAS,L 33-38,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+21,2024,2024-09-29,4,4,,CIN,@,CAR,W 34-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+22,2024,2024-10-06,5,5,,DAL,@,PIT,W 20-17,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+23,2024,2024-10-13,6,6,25.260,DAL,,DET,L 9-47,,1.0,1,2,3,1,1,0,0,0,0,0,0%,30,44%,9,32%,
+24,2024,2024-10-27,7,8,25.274,DAL,@,SFO,L 24-30,,,,,,,,,,,,0,0%,10,15%,6,20%,
+25,2024,2024-11-03,8,9,,DAL,@,ATL,L 21-27,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+26,2024,2024-11-10,9,10,,DAL,,PHI,L 6-34,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+27,2024,2024-11-18,10,11,,DAL,,HOU,L 10-34,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive

@@ -1,0 +1,128 @@
+Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status
+1,2017,2017-09-10,1,1,21.336,JAX,@,HOU,W 29-7,*,0,0,0,0,0,0,64,100%,0,0%,0,0%,
+2,2017,2017-09-17,2,2,21.343,JAX,,TEN,L 16-37,*,0,0,0,0,0,0,67,100%,0,0%,0,0%,
+3,2017,2017-09-24,3,3,21.350,JAX,,BAL,W 44-7,*,0,0,0,0,0,0,64,88%,0,0%,0,0%,
+4,2017,2017-10-01,4,4,21.357,JAX,@,NYJ,L 20-23,*,0,0,0,0,0,0,78,100%,0,0%,0,0%,
+5,2017,2017-10-08,5,5,21.364,JAX,@,PIT,W 30-9,*,0,0,0,0,0,0,54,100%,0,0%,0,0%,
+6,2017,2017-10-15,6,6,22.006,JAX,,LAR,L 17-27,*,0,0,0,1,0,0,69,100%,0,0%,0,0%,
+7,2017,2017-10-22,7,7,22.013,JAX,@,IND,W 27-0,*,0,0,0,0,0,0,2,3%,0,0%,0,0%,
+8,2017,2017-11-05,8,9,22.027,JAX,,CIN,W 23-7,*,0,0,0,0,0,0,76,95%,0,0%,0,0%,
+9,2017,2017-11-12,9,10,22.034,JAX,,LAC,W 20-17,*,0,0,0,0,0,0,84,100%,0,0%,3,8%,
+10,2017,2017-11-19,10,11,22.041,JAX,@,CLE,W 19-7,*,0,0,0,0,0,0,78,100%,0,0%,4,13%,
+11,2017,2017-11-26,11,12,22.048,JAX,@,ARI,L 24-27,*,0,0,0,0,0,0,63,100%,0,0%,4,11%,
+12,2017,2017-12-03,12,13,22.055,JAX,,IND,W 30-10,*,0,0,0,0,0,0,61,94%,0,0%,3,12%,
+13,2017,2017-12-10,13,14,22.062,JAX,,SEA,W 30-24,*,0,0,0,0,0,0,63,95%,0,0%,6,19%,
+14,2017,2017-12-17,14,15,22.069,JAX,,HOU,W 45-7,*,0,0,0,0,0,0,56,80%,0,0%,7,20%,
+15,2017,2017-12-24,15,16,22.076,JAX,@,SFO,L 33-44,*,0,0,0,0,0,0,10,11%,0,0%,0,0%,
+16,2017,2017-12-31,,17,,JAX,@,TEN,L 10-15,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+17,2018,2018-09-09,1,1,22.335,JAX,@,NYG,W 20-15,*,0,0,0,0,0,0,63,100%,0,0%,4,14%,
+18,2018,2018-09-16,2,2,22.342,JAX,,NWE,W 31-20,*,0,0,0,0,0,0,8,11%,0,0%,0,0%,
+19,2018,2018-09-23,,3,,JAX,,TEN,L 6-9,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+20,2018,2018-09-30,,4,,JAX,,NYJ,W 31-12,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+21,2018,2018-10-07,,5,,JAX,@,KAN,L 14-30,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+22,2018,2018-10-14,,6,,JAX,@,DAL,L 7-40,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+23,2018,2018-10-21,,7,,JAX,,HOU,L 7-20,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+24,2018,2018-10-28,,8,,JAX,,PHI,L 18-24,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+25,2018,2018-11-11,,10,,JAX,@,IND,L 26-29,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+26,2018,2018-11-18,,11,,JAX,,PIT,L 16-20,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+27,2018,2018-11-25,,12,,JAX,@,BUF,L 21-24,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+28,2018,2018-12-02,,13,,JAX,,IND,W 6-0,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+29,2018,2018-12-06,,14,,JAX,@,TEN,L 9-30,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+30,2018,2018-12-16,,15,,JAX,,WAS,L 13-16,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+31,2018,2018-12-23,,16,,JAX,@,MIA,W 17-7,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+32,2018,2018-12-30,,17,,JAX,@,HOU,L 3-20,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve
+33,2019,2019-09-08,,1,,JAX,,KAN,L 26-40,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+34,2019,2019-09-15,,2,,JAX,@,HOU,L 12-13,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,2019,2019-09-19,3,3,23.345,JAX,,TEN,W 20-7,*,0,,,0,0,0,27,50%,0,0%,0,0%,
+36,2019,2019-09-29,4,4,23.355,JAX,@,DEN,W 26-24,*,0,,,0,0,0,85,100%,0,0%,0,0%,
+37,2019,2019-10-06,5,5,23.362,JAX,@,CAR,L 27-34,*,0,,,0,0,0,83,100%,0,0%,0,0%,
+38,2019,2019-10-13,6,6,24.004,JAX,,NOR,L 6-13,*,0,,,0,0,0,58,100%,0,0%,0,0%,
+39,2019,2019-10-20,7,7,24.011,JAX,@,CIN,W 27-17,*,0,,,0,0,0,23,29%,0,0%,0,0%,
+40,2019,2019-10-27,8,8,24.018,JAX,,NYJ,W 29-15,*,0,,,0,0,0,74,100%,0,0%,2,8%,
+41,2019,2019-11-03,9,9,24.025,JAX,,HOU,L 3-26,*,0,0,0,0,0,0,66,100%,0,0%,2,9%,
+42,2019,2019-11-17,10,11,24.039,JAX,@,IND,L 13-33,*,0,,,0,0,0,53,85%,0,0%,2,8%,
+43,2019,2019-11-24,11,12,24.046,JAX,@,TEN,L 20-42,*,0,,,0,0,0,85,100%,0,0%,2,6%,
+44,2019,2019-12-01,12,13,24.053,JAX,,TAM,L 11-28,*,0,0,0,1,0,0,68,100%,0,0%,2,8%,
+45,2019,2019-12-08,13,14,24.060,JAX,,LAC,L 10-45,*,0,,,0,0,0,66,100%,0,0%,2,7%,
+46,2019,2019-12-15,14,15,24.067,JAX,@,OAK,W 20-16,*,0,,,0,0,0,54,95%,0,0%,4,14%,
+47,2019,2019-12-22,15,16,24.074,JAX,@,ATL,L 12-24,*,0,,,0,0,0,62,100%,0,0%,2,8%,
+48,2019,2019-12-29,16,17,24.081,JAX,,IND,W 38-20,*,0,,,0,0,0,69,100%,0,0%,6,22%,
+49,2020,2020-09-13,1,1,24.340,JAX,,IND,W 27-20,*,0,,,0,0,0,50,100%,0,0%,5,21%,
+50,2020,2020-09-20,2,2,24.347,JAX,@,TEN,L 30-33,*,0,0,0,0,0,0,76,100%,0,0%,5,18%,
+51,2020,2020-09-24,3,3,24.351,JAX,,MIA,L 13-31,*,0,,,0,0,0,39,59%,0,0%,1,4%,
+52,2020,2020-10-04,4,4,24.361,JAX,@,CIN,L 25-33,*,0,,,0,0,0,53,78%,0,0%,4,13%,
+53,2020,2020-10-11,5,5,25.002,JAX,@,HOU,L 14-30,*,0,,,0,0,0,75,100%,0,0%,4,17%,
+54,2020,2020-10-18,6,6,25.009,JAX,,DET,L 16-34,*,0,,,0,0,0,64,100%,0,0%,3,12%,
+55,2020,2020-10-25,7,7,25.016,JAX,@,LAC,L 29-39,*,0,,,0,0,0,63,100%,0,0%,1,3%,
+56,2020,2020-11-08,8,9,25.030,JAX,,HOU,L 25-27,*,0,0,0,1,0,0,69,100%,0,0%,4,13%,
+57,2020,2020-11-15,9,10,25.037,JAX,@,GNB,L 20-24,*,0,,,0,0,0,61,95%,0,0%,4,13%,
+58,2020,2020-11-22,10,11,25.044,JAX,,PIT,L 3-27,*,0,,,0,0,0,58,100%,0,0%,2,7%,
+59,2020,2020-11-29,11,12,25.051,JAX,,CLE,L 25-27,*,0,,,0,0,0,65,100%,0,0%,5,19%,
+60,2020,2020-12-06,12,13,25.058,JAX,@,MIN,L 24-27,*,0,,,0,0,0,71,100%,0,0%,4,12%,
+61,2020,2020-12-13,13,14,25.065,JAX,,TEN,L 10-31,*,0,,,0,0,0,71,100%,0,0%,3,12%,
+62,2020,2020-12-20,14,15,25.072,JAX,@,BAL,L 14-40,*,0,,,0,0,0,58,100%,0,0%,2,9%,
+63,2020,2020-12-27,15,16,25.079,JAX,,CHI,L 17-41,*,0,,,0,0,0,52,95%,0,0%,2,6%,
+64,2020,2021-01-03,16,17,25.086,JAX,@,IND,L 14-28,*,0,,,0,0,0,49,75%,0,0%,2,7%,
+65,2021,2021-09-12,1,1,25.338,JAX,@,HOU,L 21-37,*,,,,,,,74,100%,0,0%,0,0%,
+66,2021,2021-09-19,2,2,25.345,JAX,,DEN,L 13-23,*,,,,,,,56,100%,0,0%,0,0%,
+67,2021,2021-09-26,3,3,25.352,JAX,,ARI,L 19-31,*,,,,,,,60,88%,0,0%,0,0%,
+68,2021,2021-09-30,4,4,25.356,JAX,@,CIN,L 21-24,*,,,,,,,56,100%,0,0%,0,0%,
+69,2021,2021-10-10,5,5,26.001,JAX,,TEN,L 19-37,*,,,,,,,71,100%,0,0%,0,0%,
+70,2021,2021-10-17,6,6,26.008,JAX,,MIA,W 23-20,*,,,,,,,66,100%,0,0%,0,0%,
+71,2021,2021-10-31,7,8,26.022,JAX,@,SEA,L 7-31,*,,,,,,,76,100%,0,0%,0,0%,
+72,2021,2021-11-07,8,9,,JAX,,BUF,W 9-6,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+73,2021,2021-11-14,9,10,26.036,JAX,@,IND,L 17-23,*,,,,,,,66,100%,0,0%,0,0%,
+74,2021,2021-11-21,10,11,26.043,JAX,,SFO,L 10-30,*,,,,,,,39,85%,0,0%,1,4%,
+75,2021,2021-11-28,11,12,26.050,JAX,,ATL,L 14-21,*,,,,,,,73,100%,0,0%,2,9%,
+76,2021,2021-12-05,12,13,26.057,JAX,@,LAR,L 7-37,*,,,,,,,59,100%,0,0%,1,4%,
+77,2021,2021-12-12,13,14,26.064,JAX,@,TEN,L 0-20,*,,,,,,,55,100%,0,0%,0,0%,
+78,2021,2021-12-19,14,15,26.071,JAX,,HOU,L 16-30,*,,,,,,,33,47%,0,0%,2,6%,
+79,2021,2021-12-26,15,16,26.078,JAX,@,NYJ,L 21-26,*,,,,,,,73,100%,0,0%,3,13%,
+80,2021,2022-01-02,16,17,,JAX,@,NWE,L 10-50,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+81,2021,2022-01-09,17,18,,JAX,,IND,W 26-11,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+82,2022,2022-09-11,1,1,26.337,JAX,@,WAS,L 22-28,*,,,,,,,70,100%,0,0%,5,21%,
+83,2022,2022-09-18,2,2,26.344,JAX,,IND,W 24-0,*,,,,,,,71,100%,0,0%,0,0%,
+84,2022,2022-09-25,3,3,26.351,JAX,@,LAC,W 38-10,*,,,,,,,75,99%,0,0%,2,8%,
+85,2022,2022-10-02,4,4,26.358,JAX,@,PHI,L 21-29,*,,,,,,,47,100%,0,0%,0,0%,
+86,2022,2022-10-09,5,5,27.000,JAX,,HOU,L 6-13,*,,,,,,,75,100%,0,0%,1,5%,
+87,2022,2022-10-16,6,6,27.007,JAX,@,IND,L 27-34,*,,,,,,,63,100%,0,0%,0,0%,
+88,2022,2022-10-23,7,7,27.014,JAX,,NYG,L 17-23,*,,,,,,,66,93%,0,0%,0,0%,
+89,2022,2022-10-30,8,8,27.021,JAX,,DEN,L 17-21,*,,,,,,,72,100%,0,0%,0,0%,
+90,2022,2022-11-06,9,9,27.028,JAX,,LVR,W 27-20,*,,,,,,,69,100%,0,0%,0,0%,
+91,2022,2022-11-13,10,10,27.035,JAX,@,KAN,L 17-27,*,,,,,,,64,100%,0,0%,0,0%,
+92,2022,2022-11-27,11,12,27.049,JAX,,BAL,W 28-27,*,,,,,,,63,100%,0,0%,0,0%,
+93,2022,2022-12-04,12,13,27.056,JAX,@,DET,L 14-40,*,,,,,,,52,93%,0,0%,0,0%,
+94,2022,2022-12-11,13,14,27.063,JAX,@,TEN,W 36-22,*,,,,,,,72,100%,0,0%,0,0%,
+95,2022,2022-12-18,14,15,27.070,JAX,,DAL,W 40-34,*,,,,,,,55,79%,0,0%,2,6%,
+96,2022,2022-12-22,15,16,,JAX,@,NYJ,W 19-3,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+97,2022,2023-01-01,16,17,,JAX,@,HOU,W 31-3,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+98,2022,2023-01-07,17,18,,JAX,,TEN,W 20-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+99,2023,2023-09-10,1,1,,JAX,@,IND,W 31-21,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+100,2023,2023-09-17,2,2,,JAX,,KAN,L 9-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+101,2023,2023-09-24,3,3,,JAX,,HOU,L 17-37,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+102,2023,2023-10-01,4,4,,JAX,,ATL,W 23-7,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+103,2023,2023-10-08,5,5,27.364,JAX,@,BUF,W 25-20,*,,,,,,,85,97%,0,0%,2,8%,
+104,2023,2023-10-15,6,6,28.006,JAX,,IND,W 37-20,*,,,,,,,64,100%,0,0%,0,0%,
+105,2023,2023-10-19,7,7,28.010,JAX,@,NOR,W 31-24,*,,,,,,,56,100%,0,0%,0,0%,
+106,2023,2023-10-29,8,8,28.020,JAX,@,PIT,W 20-10,*,,,,,,,71,100%,0,0%,0,0%,
+107,2023,2023-11-12,9,10,28.034,JAX,,SFO,L 3-34,*,,,,,,,57,100%,0,0%,0,0%,
+108,2023,2023-11-19,10,11,28.041,JAX,,TEN,W 34-14,*,,,,,,,63,89%,0,0%,0,0%,
+109,2023,2023-11-26,11,12,28.048,JAX,@,HOU,W 24-21,*,,,,,,,12,16%,0,0%,0,0%,
+110,2023,2023-12-04,12,13,,JAX,,CIN,L 31-34,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+111,2023,2023-12-10,13,14,,JAX,@,CLE,L 27-31,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+112,2023,2023-12-17,14,15,,JAX,,BAL,L 7-23,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+113,2023,2023-12-24,15,16,,JAX,@,TAM,L 12-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+114,2023,2023-12-31,16,17,28.083,JAX,,CAR,W 26-0,*,,,,,,,56,89%,0,0%,0,0%,
+115,2023,2024-01-07,17,18,28.090,JAX,@,TEN,L 20-28,*,,,,,,,71,100%,0,0%,0,0%,
+116,2024,2024-09-08,1,1,28.335,JAX,@,MIA,L 17-20,*,,,,,,,53,100%,0,0%,3,12%,
+117,2024,2024-09-15,2,2,28.342,JAX,,CLE,L 13-18,*,,,,,,,60,100%,0,0%,4,15%,
+118,2024,2024-09-23,3,3,28.350,JAX,@,BUF,L 10-47,*,,,,,,,71,100%,0,0%,2,8%,
+119,2024,2024-09-29,4,4,28.356,JAX,@,HOU,L 20-24,*,,,,,,,58,100%,0,0%,4,14%,
+120,2024,2024-10-06,5,5,28.363,JAX,,IND,W 37-34,*,,,,,,,58,100%,0,0%,7,21%,
+121,2024,2024-10-13,6,6,29.004,JAX,@,CHI,L 16-35,*,,,,,,,62,100%,0,0%,2,8%,
+122,2024,2024-10-20,7,7,29.011,JAX,,NWE,W 32-16,*,,,,,,,5,8%,0,0%,0,0%,
+123,2024,2024-10-27,8,8,,JAX,,GNB,L 27-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+124,2024,2024-11-03,8,9,29.025,MIN,,IND,W 21-13,*,,,,,,,73,100%,0,0%,5,23%,
+125,2024,2024-11-10,9,10,29.032,MIN,@,JAX,W 12-7,*,0,0,0,0,0,0,84,100%,0,0%,4,21%,
+126,2024,2024-11-17,10,11,29.039,MIN,@,TEN,W 23-13,*,,,,,,,73,100%,0,0%,4,15%,
+127,2024,2024-11-24,11,12,29.046,MIN,@,CHI,W 30-27,*,,,,,,,9,13%,0,0%,0,0%,
